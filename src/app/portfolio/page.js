@@ -24,8 +24,6 @@ export default function Portfolio() {
         ' Cycle through horses in a race with unsaved data tracking and bulk save operations',
         'Mobile-friendly interface with collapsible panels and fullscreen video mode'
       ],
-      githubUrl: 'https://github.com/username/doc-analysis',
-      liveUrl: 'https://doc-analysis-demo.com'
     },
     {
       id: 2,
@@ -41,8 +39,6 @@ export default function Portfolio() {
         'PDF document processing with Azure Blob Storage integration',
         'Comprehensive logging and retry mechanisms for production reliability'
       ],
-      githubUrl: 'https://github.com/username/agentic-ai',
-      liveUrl: 'https://agentic-ai-demo.com'
     },
     {
       id: 3,
@@ -58,8 +54,6 @@ export default function Portfolio() {
         'RESTful API with health checks and comprehensive error handling',
         'Automated ECR deployment pipeline with Docker multi-stage builds',
       ],
-      githubUrl: 'https://github.com/username/cv-quality-control',
-      liveUrl: null
     },
     {
       id: 4,
@@ -76,8 +70,6 @@ export default function Portfolio() {
         'Supports both live webcam feeds and uploaded video processing',
         'Built for manufacturing environments with robust error handling and performance optimization'
       ],
-      githubUrl: 'https://github.com/username/generative-ai-platform',
-      liveUrl: 'https://generative-ai-demo.com'
     },
     {
       id: 5,
@@ -93,8 +85,6 @@ export default function Portfolio() {
         'Session management with conversation search and memory controls',
         'Clean, modular architecture with separate components for model management, memory storage, and UI',
       ],
-      githubUrl: 'https://github.com/username/sentiment-api',
-      liveUrl: 'https://sentiment-api-demo.com'
     },
   ]
 

@@ -66,31 +66,6 @@ export default function ProjectModal({ project, isOpen, onClose }) {
               ))}
             </ul>
           </div>
-          
-          <div className="flex space-x-4">
-            {project.liveUrl && (
-              <a
-                href={project.liveUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="btn-primary flex items-center space-x-2"
-              >
-                <ExternalLink size={20} />
-                <span>Live Demo</span>
-              </a>
-            )}
-            {project.githubUrl && (
-              <a
-                href={project.githubUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="btn-secondary flex items-center space-x-2"
-              >
-                <Github size={20} />
-                <span>View Code</span>
-              </a>
-            )}
-          </div>
         </div>
       </div>
     </div>
